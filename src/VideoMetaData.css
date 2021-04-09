@@ -1,0 +1,35 @@
+.video-matadata-top span {
+    /* cursor: pointer; */
+}
+
+.video-matadata-channel {
+    border-top: 0.2px solid lightgray;
+    border-bottom: 0.2px solid lightgray;
+}
+
+.video-matadata-channel img {
+    width: 50px;
+    height: 50px;
+}
+
+.video-matadata-channel button {
+    text-transform: uppercase;
+    background-color: red;
+    letter-spacing: 0.5px;
+    
+}
+
+.video-metadata-desc {
+    font-size: 0.9rem;
+    white-space: pre-line;
+    border-bottom: 0.2px solid lightgray;
+}
+
+.video-metadata-desc .show-more-text{
+    text-decoration: none;
+    display: block;
+    margin: 1rem 0;
+    /* color: white; */
+    font-weight: 500;
+
+}
